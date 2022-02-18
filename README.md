@@ -26,3 +26,7 @@ Windows:
 <code>pip3 install -r reqirements.txt</code>
 
 
+Запуск:
+
+<code>python3 admin.py</code>
+<code>python3 main.py</code>
