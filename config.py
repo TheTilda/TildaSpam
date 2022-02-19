@@ -1,4 +1,4 @@
-api_id = 14466588
-api_hash = '342a1b1f91d158e5d33ddf00d76ebf4e'
-token = '5273176481:AAGqLhTwkQPMT8_Hrt8t6xyl6Bv_BbiNDJw'
-admin = 1117551115
+api_id = 12345678 #Ваш api_id
+api_hash = 'api_hash'
+token = 'Токен бота'
+admin = 123456778 #id админа
